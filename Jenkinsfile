@@ -31,7 +31,7 @@ pipeline {
                 
                 python --version
                 
-                python ${WORKSPACE}\\Test_diff\\titanic.py
+                python Test_diff\\titanic.py
                 
                 
                 
